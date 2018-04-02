@@ -1,4 +1,4 @@
-| Week # |Contribution |Contribution Type|
+| Week Number |Contribution |Contribution Type|
 |-------|:-----------:|----------------:|
 | Three  | Wikipedia    | Edit on One Tree Hill Page |
 | Three  | Wikipedia    | Added reference to Wikipedia article |
