@@ -1,5 +1,5 @@
 | Week Number |Contribution |Contribution Type|
-|-------:|:-----------:|:----------------:|
+|:-------:|:-----------:|:----------------:|
 | Three  | Wikipedia    | Edit on One Tree Hill Page |
 | Three  | Wikipedia    | Added reference to Wikipedia article |
 | Four   | Website Page | I reported an issue on the course website page the exam dates were not posted |
