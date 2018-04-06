@@ -13,4 +13,4 @@
 | Eight  | Zulip | I commented on an issue our team is working on and claimed the project |
 | Eight  | Zulip | I reported an issue; the fix for an old issue was static and should be dynamic | 
 | Nine   | BUGS Open Source | I commented on an issue because I could not replicate it|
-
+| Nine   | Font-Awesome | I reported an issue; it was an icon request for a bubble graph icon|
