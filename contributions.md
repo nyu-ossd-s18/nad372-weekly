@@ -1,5 +1,5 @@
 | Week Number |Contribution |Contribution Type|
-|-------:|:-----------:|----------------:|
+|-------:|:-----------:|:----------------:|
 | Three  | Wikipedia    | Edit on One Tree Hill Page |
 | Three  | Wikipedia    | Added reference to Wikipedia article |
 | Four   | Website Page | I reported an issue on the course website page the exam dates were not posted |
@@ -12,4 +12,5 @@
 | Eight  | Seigellab | I made a pull request and contributed to a Biology Data Project. The README file was too lengthy so I put in Wiki.md |
 | Eight  | Zulip | I commented on an issue our team is working on and claimed the project |
 | Eight  | Zulip | I reported an issue; the fix for an old issue was static and should be dynamic | 
+| Nine   | BUGS Open Source | I commented on an issue because I could not replicate it|
 
