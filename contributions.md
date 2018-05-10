@@ -15,3 +15,5 @@
 | Nine   | BUGS Open Source | I commented on an issue because I could not replicate it|
 | Nine   | Font-Awesome | I reported an issue; it was an icon request for a bubble graph icon|
 |Thirteen| Class Website| I created a pull request for an issue|
+|Thirteen| OpenMaps| I put my house on the map|
+|Thirteen| OpenMaps| I put a restuarant by my house|
